@@ -3,11 +3,11 @@
     "name": 		"aspose/storage-sdk-php",
     "type": 		"library",
     "keywords" : 	["aspose", "php", "aspose cloud", "storage"],
-	"homepage": 	"https://github.com/asposemarketplace/Aspose.Storage_Cloud_SDK_For_PHP",
+	"homepage": 	"https://github.com/asposetotal/Aspose_Storage_Cloud_SDK_For_PHP",
 	"authors": [
         {
             "name": 	"Imran Anwar",
-            "email": 	"imranwar@gmail.com"
+            "email": 	"imran.anwar@aspose.com"
         }
     ],
     "require": {
